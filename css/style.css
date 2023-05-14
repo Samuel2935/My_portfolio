@@ -3,7 +3,7 @@
 /**********************************/
 body {
     color: #666666;
-    background: #f5f569;
+    background: #203040;
     font-family: 'Open Sans', sans-serif;
 }
 
@@ -314,7 +314,7 @@ a:focus {
 
 .header .content-inner {
     padding: 100px 30px;
-    background: url(../img/me2_.jpg) right bottom no-repeat;
+    background: url(../img/react.png) right bottom no-repeat;
     background-size: contain;
 }
 
@@ -350,7 +350,7 @@ a:focus {
 
 .large-btn .content-inner {
     font-size: 0;
-    border-bottom: 30px solid #0fe677 ;
+    border-bottom: 30px solid #2d2e49 ;
 }
 
 .large-btn .btn {
