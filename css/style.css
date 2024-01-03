@@ -314,8 +314,11 @@ a:focus {
 
 .header .content-inner {
     padding: 100px 30px;
-    background: url(../img/react.png) right bottom no-repeat;
+    background: url(../img/bg-pic.jpg)  no-repeat;
     background-size: contain;
+}
+.header .content-inner p, h1, div{
+    color: #FF6F61 !important;
 }
 
 .header p {
@@ -341,6 +344,9 @@ a:focus {
 .header .typed-text {
     display: none;
 }
+/* .typed-text{
+    color: #FF6F61 !important;
+} */
 
 .header .typed-cursor {
     font-size: 25px;
