@@ -100,7 +100,7 @@ a:focus {
     rgb(219, 219, 219) -16px 26px 1px, rgb(223, 223, 223) -18px 29px 1px;
 }
 .sam_nam {
-  text-shadow: rgb(255, 153, 204) 3px 3px 20px, rgb(255, 153, 204) -2px 1px 30px;
+    text-shadow:rgb(255, 153, 204) 3px 3px 20px, rgb(255, 153, 204) -2px 1px 30px;
 }
 
 .wrapper .sidebar,
